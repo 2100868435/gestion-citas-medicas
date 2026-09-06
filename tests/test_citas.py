@@ -1,4 +1,4 @@
-from src.citas import registrar_cita
+from citas import registrar_cita
 
 
 def test_registrar_cita():
