@@ -1,4 +1,4 @@
-name: CI Inventory Pipeline
+name: CI Gestión de Citas Médicas
 
 on:
   push:
