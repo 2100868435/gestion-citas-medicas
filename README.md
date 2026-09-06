@@ -43,3 +43,6 @@ El proyecto utiliza GitHub Actions para ejecutar automáticamente las pruebas ca
 ## Pruebas
 
 Actualmente el módulo cuenta con pruebas automatizadas para verificar el registro correcto de citas médicas.
+
+Flujo de trabajo mediante rama de funcionalidad y Pull Request.
+
